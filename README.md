@@ -1,1 +1,4 @@
-# java_gui
+# java_gui</BR>
+
+# Eclipse Setup</BR>
+e(fx)clipse

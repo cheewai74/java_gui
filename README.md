@@ -4,6 +4,7 @@
 javafx - e(fx)clipse</BR>
 https://gluonhq.com/products/javafx/</BR>
 https://openjfx.io/</BR>
+https://pragmaticways.com/how-to-add-javafx-to-eclipse-the-easy-way/</BR>
 
 ```
 <dependency></BR>

@@ -1,12 +1,17 @@
 # java_gui</BR>
 
+# Scene Builder</BR>
+Scene Builder: https://gluonhq.com/products/scene-builder/thanks/?dl=https://download2.gluonhq.com/scenebuilder/</BR>
+
 # Eclipse Setup</BR>
-javafx - e(fx)clipse</BR>
+1. javafx - e(fx)clipse</BR>
+2. Create Java FX Project, delete module-java file</BR> 
+
+
 https://gluonhq.com/products/javafx/</BR>
 https://openjfx.io/</BR>
 https://pragmaticways.com/how-to-add-javafx-to-eclipse-the-easy-way/</BR>
 
-Scene Builder: https://gluonhq.com/products/scene-builder/thanks/?dl=https://download2.gluonhq.com/scenebuilder/</BR>
 
 ```
 <dependency></BR>

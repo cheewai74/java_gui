@@ -5,7 +5,12 @@ Scene Builder: https://gluonhq.com/products/scene-builder/thanks/?dl=https://dow
 
 # Eclipse Setup</BR>
 1. javafx - e(fx)clipse</BR>
-2. Create Java FX Project, delete module-java file</BR> 
+2. Create Java FX Project, delete module-java file</BR>
+3. Mouse right click project, Build Path --> Configure Build Path...</BR>
+4. Libraries Tab --> Classpath --> Add Library... --> User Library -->JavaFX24</BR>
+5. Click Run --> Run Configuration --> (x)=Arguments </BR>
+6. VM arguments = --module-path "C:\Program Files\Java\javafx-sdk-24\lib" --add-modules javafx.controls,javafx.fxml</BR>
+7. Click Dependencies Tab --> Click Modulepath Entries  --> Click Advance --> Select Add Library --> User Library --> JavaFX24</BR>
 
 
 https://gluonhq.com/products/javafx/</BR>
